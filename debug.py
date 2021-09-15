@@ -2,8 +2,8 @@
 # Created by: Daria Bernice Calitis
 # Created on: Sept 2021
 # This program shows how local and global variables work
-# global variable
 
+# global variable
 variable_X = 25
 
 
